@@ -6,6 +6,8 @@ tags: [ "D&D" ]
 
 A few friends of my wife and I have started a D&D campaign recently. I've played once before with some friends but I honestly had no idea what I was doing at the time which means I missed a lot of what makes D&D fun. With podcasts like [The Adventure Zone](http://www.maximumfun.org/shows/adventure-zone) and web series like [Titansgrave](http://geekandsundry.com/shows/titansgrave/), it ignited an interest in playing amongst a few of our friends. Now with a better understanding of the game, I was excited to tackle creating a proper character. Mostly though, I was looking forward to writing my character's backstory.
 
+I created Kyrell Amari, an Paladin outlander that was part of a nomadic tribe before their disappearance.
+
 I should point out that I rushed this backstory out over a night with only a few collaborations with my wife about how our character's met (my wife's character is the halfling Jack). That being said, I'm sure there are some plot holes the size of 747's in here.
 
 Whatever though, I'm really happy with how it turned out and I'm actually considering doing some more, unrelated writing since I enjoyed writing it so much.
