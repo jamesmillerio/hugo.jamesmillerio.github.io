@@ -1,6 +1,7 @@
 ---
 title: "I made a thing: Goboom, a Go port of Boom"
 date: "2015-08-15"
+tags: [ "Go" ]
 ---
 
 The other day, while playing around with some Alfred workflows, I had the need to store small bits of data between workflows in a key/value fashion. In the past, I've used either environment variables to do so or something like [boom](https://github.com/holman/boom) by [Zach Holman](http://zachholman.com). I don't really like defining tons of environment variables for stuff like this, so boom was a natural fit.

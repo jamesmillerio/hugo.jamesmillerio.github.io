@@ -1,6 +1,7 @@
 ---
 title: "Connecting Go to the IFTTT Maker Channel"
 date: "2015-07-31"
+tags: [ "Go", "IFTTT" ]
 ---
 
 The other day, I noticed that IFTTT has added a new channel called the [IFTTT Maker Channel](https://ifttt.com/maker). The premise being that you can send a POST or GET request to IFTTT to trigger a recipe. This opens up IFTTT quite a lot if you want to do some really custom work without trying to shoehorn a combination of workflows into producing some desired result. A few days later I also noticed they released a [Spotify Channel](https://ifttt.com/spotify), something else I'd been hoping for.
