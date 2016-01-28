@@ -2,7 +2,7 @@
 title: "Alfred Workflows"
 date: "2015-08-29"
 tags: [ "Alfred", "Workflows" ]
-banner: "static/banners/alfred.png"
+banner: "banners/alfred.png"
 ---
 
 One of my favorite apps on OS X has always been Alfred. The number of things you can do with it is crazy and for someone who likes to fiddle with things and streamline cumbersome proceses, it really is a godsend.
