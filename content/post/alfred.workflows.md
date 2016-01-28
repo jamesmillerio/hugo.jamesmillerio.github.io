@@ -4,7 +4,7 @@ date: "2015-08-29"
 tags: [ "Alfred", "Workflows" ]
 ---
 
-One of my favorite apps on OS X has always been Alfred. The number of things you can do with it is crazy and for someone who likes to fiddle with things and streamline cumbersome proceses, it really is a godsend.
+One of my favorite apps on OS X has always been Alfred. The number of things you can do with it is crazy and for someone who likes to fiddle with things and streamline cumbersome processes, it really is a godsend.
 
 Over time, I've found some workflows that have been pretty useful and also created some of my own. A lot of them are pretty pointless to share (who wants a workflow to download their kid's daycare pictures? I didn't think so...) but a couple of them are helpful.
 
