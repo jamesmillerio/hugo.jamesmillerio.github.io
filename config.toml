@@ -18,7 +18,7 @@ theme = "hugo-icarus-theme"
 [params]
     # Tell me who you are
     author = "James Miller"
-    bio = "Programmer - Tinkerer - Father - Human"
+    bio = "Programmer - Father - Human"
     location = "Fruit Cove FL"
     site_description = ""
     copyright  = "Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice)."
