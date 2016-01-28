@@ -8,7 +8,7 @@ A few friends of my wife and I have started a D&D campaign recently. I've played
 
 I should point out that I rushed this backstory out over a night with only a few collaborations with my wife about how our character's met (my wife's character is the halfling Jack). That being said, I'm sure there are some plot holes the size of 747's in here.
 
-Whatever though, I'm really happy with how it turned out and I'm actually considering doing some more, unrelated writing because of it since I had such a great time with it.
+Whatever though, I'm really happy with how it turned out and I'm actually considering doing some more, unrelated writing since I enjoyed writing it so much.
 
 If you enjoy it, let me know on [Twitter](https://twitter.com/jamesmillerio).
 
