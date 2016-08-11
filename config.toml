@@ -1,5 +1,4 @@
-baseurl = "http://localhost:1313/"
-# baseurl = "http://jamesmiller.io/"
+baseurl = "http://jamesmiller.io/"
 languageCode = "en-us"
 title = "jamesmiller.io"
 # Enable comments by entering your Disqus shortname
