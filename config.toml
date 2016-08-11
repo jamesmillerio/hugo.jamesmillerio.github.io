@@ -1,4 +1,5 @@
-baseurl = "http://jamesmiller.io/"
+baseurl = "http://localhost:1313/"
+# baseurl = "http://jamesmiller.io/"
 languageCode = "en-us"
 title = "jamesmiller.io"
 # Enable comments by entering your Disqus shortname
@@ -8,7 +9,8 @@ googleAnalytics = "UA-73168329-1"
 # Define the number of posts per site
 paginate = 10
 footnotereturnlinkcontents = "↩"
-theme = "hugo-icarus-theme"
+theme = "casper"
+#theme = "hugo-icarus-theme"
 
 
 [permalinks]
@@ -16,16 +18,23 @@ theme = "hugo-icarus-theme"
 
 
 [params]
+    logo = "img/boatavatar.jpg"
     # Tell me who you are
     author = "James Miller"
+    authorthumbnail = "img/boatavatar.jpg"
     bio = "Programmer - Father - Human"
     location = "Fruit Cove FL"
-    site_description = ""
+    #site_description = ""
+    description = "Developer, Tinkerer, Gamer, Father."
     copyright  = ""
     avatar = "css/images/james.avatar.jpg"
-
+    #cover = "https://dl.dropboxusercontent.com/u/149863/RoAbm5d.png"
+    #cover = "https://dl.dropboxusercontent.com/u/149863/IMG_8447.JPG"
+    cover = "https://dl.dropboxusercontent.com/u/149863/IMG_0117_Cropped.JPG"
     # Format dates with Go's time formatting
     date_format = "2006-01-02"
+    githubName = "jamesmillerio"
+    twitterName = "jamesmillerio"
 
 # Create custom menu entries by defining a label and a link for
 # them. Since you can also link posts, you've the option the
@@ -91,3 +100,36 @@ theme = "hugo-icarus-theme"
     categories = true
     tags = true
     tag_cloud = true
+
+[[menu.main]]
+    name = "Home"
+    pre = "<h3>Blog</h3>"
+    weight = -120
+    identifier = "blog"
+    url = "/"
+
+[[menu.main]]
+    name = "Twitter"
+    pre = "<h3>Contact</h3>"
+    weight = -110
+    identifier = "twitter"
+    url = "http://twitter.com/jamesmillerio"
+
+[[menu.main]]
+    name = "Github"
+    weight = -100
+    identifier = "github"
+    url = "http://github.com/jamesmillerio"
+
+[[menu.main]]
+    name = "Stack Overflow"
+    weight = -100
+    identifier = "so"
+    url = "http://stackoverflow.com/users/3552/jamesmillerio?tab=profile"
+
+[[menu.main]]
+    name = "Resume"
+    weight = -90
+    identifier = "email"
+    url = "http://stackoverflow.com/cv/jamesmillerio"
+
