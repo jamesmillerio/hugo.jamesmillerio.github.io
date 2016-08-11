@@ -43,7 +43,7 @@ I wanted to integrate the button with my [Home Assistant](https://home-assistant
 
 This was the part that seemed a little unpolished for me. With the Dash button, the wifi is configured through the Amazon app and is a pretty seemless process if I remember correctly. With the AWS IoT button though, it's a bit different. Not unlike many other IoT devices that require internet connectivity, the button creates its own wifi network that you have to connect to with another device. 
 
-Before you even get to that point though, you have to set up your Lambda function within the AWS management console and grab some assorted information (including a certification and private key) to plug into the button's set up page. This part was a little cumbersome, but not too terrible. 
+Before you even get to that point though, you have to set up your Lambda function within the AWS management console and grab some assorted information (including a certificate and private key) to plug into the button's set up page. This part was a little cumbersome, but not too terrible. 
 
 Once you've done that, you are instructed to connect to the device's wifi network and pull up a webpage using the IP of the device to configure it. It looks like this:
 
