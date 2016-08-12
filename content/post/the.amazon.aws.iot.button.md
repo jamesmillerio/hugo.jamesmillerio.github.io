@@ -55,12 +55,12 @@ And here it is in action... behold!
 
 [![It's alive!](/img/posts/awsiotbuttonpress.gif)](/img/posts/awsiotbuttonpress.gif)
 
-#### A Tip
-
-One tip that I came across for making the button a little bit snappier is to get the button's MAC address and set up an IP reservation with your local DHCP provider. The button would often take between 10 and 20 seconds to connect and execute the Lambda function and after giving it a DHCP reservation, it  cut this time down some. It seems that some significant portion of that time was spent negotiating an IP.
-
 #### A Caveat
 
 I mentioned earlier that the way I got the button to work with my home network was to have my Lambda function connect to a publicly accessible MQTT broker. I wanted to clarify one caveat for why I did that instead of just using the [go-dash-button library](https://github.com/mikeflynn/go-dash-button) to send MQTT messages so that I don't have to rely on internet connectivity. The reason I did this is that the AWS IoT button supports three different button pushes: single, double, and long press. If you use the ARP library approach, you just get a notification that it's been pressed (or rather, you get a notification that the button is sending an ARP request as it connects to your local network). That's it. If you want to take advantage of those three different modes, I believe the only way is to use the Lambda approach. 
 
 I essentially had the Lambda function send an MQTT message with a payload that specifies how the button was pressed so that my Home Assistant install can make use of all three modes.
+
+#### A Tip
+
+One tip that I came across for making the button a little bit snappier is to get the button's MAC address and set up an IP reservation with your local DHCP provider. The button would often take between 10 and 20 seconds to connect and execute the Lambda function and after giving it a DHCP reservation, it  cut this time down some. It seems that some significant portion of that time was spent negotiating an IP.
