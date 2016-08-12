@@ -17,7 +17,8 @@ theme = "casper"
 
 
 [params]
-    logo = "img/boatavatar.jpg"
+    logo = "img/monogram.png"
+    #logo = "img/boatavatar.jpg"
     # Tell me who you are
     author = "James Miller"
     authorthumbnail = "img/boatavatar.jpg"
