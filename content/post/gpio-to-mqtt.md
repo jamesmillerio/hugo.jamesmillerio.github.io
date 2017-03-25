@@ -12,7 +12,7 @@ Say you have an old alarm system in your house that you aren't using. You have t
 
 All it requires is a Raspberry Pi, a network connection, and Go + gpio-to-mqtt to get running.
 
-Once you have this up and running, you can write any number of utility applications to listen to the broker on your network and perform other actions. Maybe you get a notification every time your front door opens or when someone opens a window unexpectedly. You could even just connect physical buttons to the GPIO pins and to use them as network attached buttons.
+Once you have this up and running, you can write any number of utility applications to listen to the broker on your network and perform other actions. Maybe you get a notification every time your front door opens or when someone opens a window unexpectedly. You could even just connect physical buttons to the GPIO pins and use them as network attached buttons.
 
 There is still some development work to be done at this point, a lot of which surrounds additional MQTT options (like the ability to connect using certificates). I'm going to follow this post up with my set up for people to reference if needed. For the time being, here's what my install looks like.
 
