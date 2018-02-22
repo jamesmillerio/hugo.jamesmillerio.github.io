@@ -3,7 +3,7 @@ title: "Our Binary Puppies"
 date: "2018-02-21"
 draft: false
 slug: "our-binary-puppies"
-tags: ["Alexa", "Echo", "Urban Dictionary"]
+tags: ["Puppies"]
 ---
 
 I haven't really posted much that's too personal on my blog yet, instead opting for more techy topics. I thought earlier it'd be nice to post some pictures of our puppies, Ichi and Zero, and realized I could split the uprights and hit both personal and techy in one post!
