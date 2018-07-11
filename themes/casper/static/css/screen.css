@@ -526,6 +526,10 @@ body.nav-opened .site-wrapper {
     text-align: center;
     background-color: #222 ;
     overflow: hidden;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 .main-header .inner {

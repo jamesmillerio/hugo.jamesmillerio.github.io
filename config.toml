@@ -31,7 +31,8 @@ theme = "casper"
     #cover = "https://dl.dropboxusercontent.com/u/149863/RoAbm5d.png"
     #cover = "https://dl.dropboxusercontent.com/u/149863/IMG_8447.JPG"
     #cover = "https://dl.dropboxusercontent.com/u/149863/IMG_0117_Cropped.JPG"
-    cover = "img/px_by_Gre3g_@2X.png"
+    #cover = "img/px_by_Gre3g_@2X.png"
+    cover = "img/IMG_0082.JPG"
     # Format dates with Go's time formatting
     date_format = "2006-01-02"
     githubName = "jamesmillerio"
@@ -133,4 +134,3 @@ theme = "casper"
     weight = -90
     identifier = "email"
     url = "http://stackoverflow.com/cv/jamesmillerio"
-
