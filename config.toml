@@ -1,4 +1,4 @@
-baseurl = "http://jamesmiller.io/"
+baseurl = "//jamesmiller.io/"
 languageCode = "en-us"
 title = "jamesmiller.io"
 # Enable comments by entering your Disqus shortname
@@ -115,22 +115,22 @@ theme = "casper"
     pre = "<h3>Contact</h3>"
     weight = -110
     identifier = "twitter"
-    url = "http://twitter.com/jamesmillerio"
+    url = "https://twitter.com/jamesmillerio"
 
 [[menu.main]]
     name = "Github"
     weight = -100
     identifier = "github"
-    url = "http://github.com/jamesmillerio"
+    url = "https://github.com/jamesmillerio"
 
 [[menu.main]]
     name = "Stack Overflow"
     weight = -100
     identifier = "so"
-    url = "http://stackoverflow.com/users/3552/jamesmillerio?tab=profile"
+    url = "https://stackoverflow.com/users/3552/jamesmillerio?tab=profile"
 
 [[menu.main]]
     name = "Resume"
     weight = -90
     identifier = "email"
-    url = "http://stackoverflow.com/cv/jamesmillerio"
+    url = "https://stackoverflow.com/cv/jamesmillerio"
